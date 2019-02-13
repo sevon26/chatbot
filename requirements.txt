@@ -1,0 +1,16 @@
+scikit-learn
+tensorflow
+tensorlayer
+numpy
+click
+tqdm
+flask
+flask_script
+requests
+wxpy
+langdetect
+
+
+
+download model address:
+https://drive.google.com/drive/folders/1oQWHazsNnnyAR5R8z4hmUD9C9xBa_rCR
